@@ -1,9 +1,14 @@
 # Keytones-for-qb-core
-If your QB-Phone doesn't play key tones, this package will help you.
-
-
-Installation:
-
+© Copyright 2022 all rights reserved<br>
+<br>
+All contents, especially the source code of all files, are protected by copyright. All rights, including reproduction, publication, editing and translation, are reserved.<br>
+<br>
+<br>
+If your QB-Phone doesn't play key tones, this package will help you.<br>
+<br>
+<br>
+Installation:<br>
+<br>
 1. Move the folder `audio` to: `./resource/[qb]/[phone]/html/`
 2. Move the file `keytone.js` to: `./resource/[qb]/[phone]/html/js/`
 3. Open the file: `./resource/[qb]/qb-phone/html/index.html`
@@ -14,8 +19,8 @@ Installation:
 8. Search in the file for: `files {`
 9. After that, paste: `'html/audio/*.mp3',`
 10. Save and close
-
-restart script (better restart server), DONE!
-
-required:
+<br>
+restart script (better restart server), DONE!<br>
+<br>
+required:<br>
 qb-phone
